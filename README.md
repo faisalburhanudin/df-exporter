@@ -1,6 +1,6 @@
 # DF Exporter
 
-using df to export to prometheus metrics
+using df to export disk usage to prometheus metrics
 
 ```bash
 ~ df
